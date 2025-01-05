@@ -6,3 +6,5 @@ scikit-learn
 xgboost
 tensorflow
 nltk
+fastapi
+uvicorn
