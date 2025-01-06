@@ -8,3 +8,4 @@ tensorflow
 nltk
 fastapi
 uvicorn
+streamlit
